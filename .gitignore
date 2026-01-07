@@ -1,0 +1,5 @@
+venv/
+# .gitignore
+models/
+*.pkl
+Data/featured_df.pkl
